@@ -1,0 +1,2929 @@
+npm init react@latest 
+cls
+nvm -v
+nvm install latest
+npm i -g nx
+nvm -v
+nvm ls
+npm v
+npm
+node v
+node -v
+npm i -g nx
+https://www.postgresql.org/download/
+npm init react@latest
+npm init vite@latest
+cd Reactfrontend
+npm i
+cd Reactbuild
+cd Reactfrontend
+cls
+cls
+npm run dev
+npm init vite @latest
+npm i 
+cd reactfrontend
+npm i
+npm run dev
+cd reactfrontned
+cd reactfrontend
+cls
+npm run dev
+cd frontend
+cd reactfrontend
+cls
+cd reactfrontend
+npm run dev
+cd react-frontend
+cd reactfrontend
+npm i axios
+cd reactfrontend
+npm run dev
+cd reactfrontend
+npm i react axios cors
+cd reactfronend
+cd reactfrontend
+npm run dev]
+npm run dev
+cd ..
+cd expserver
+npm init -y
+npm i cors express pg-promise 
+node app
+cd anime
+npm init anime@latest
+npm install animejs puppeteer`
+
+node index
+npm i animejs
+node app
+cd test
+npm init vue@latest
+npm init react@latest
+npm init svelte@latest
+npm init three@latest
+npm run dev
+npm run dev
+cd reactfrontend
+npm run dev
+node app
+clear
+node app
+cd reactfrontend
+npm run dev
+npm i pg
+node app
+node app\
+node app
+cd reactfrontend
+npm run dev
+node app
+cd reactfrontend
+npm run dev
+node app
+npm i express-handlebars
+node app
+cd reactfrontend\
+npm run dev
+node app
+cd apps/trac-api
+node main --name test
+cd src
+node main --name test
+tsc main
+node main
+node main.ts
+nx serve trac-api
+cd ..
+nx run db-reset:run-script 
+nx run db-reset:run-script
+nx serve
+nx build trac-api 
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
+
+nx build trac-api
+nx build trac-web
+ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+nx build trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-web
+nx run db-reset:run-script
+ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+nx run db-reset:run-script
+cd expserver
+node app
+cd reactbuild
+npm run dev
+cd reactfrontend
+npm run dev
+cd expserver
+node app
+cd reactbuild/reactfrontend
+npm run dev
+npm init vite@latest
+cd expserver
+node app
+cd reactbuild/reactfrontend
+npm run dev
+npm init vite@latest
+cd vr-project
+npm i
+npm run dev
+cd vr-project
+npm i npm install three @react-three/fiber @react-three/drei`
+
+npm install 360-image-viewer --save
+cd expjs
+npm init -y
+npm install express three
+cd test
+git clonehttps://github.com/Experience-Monks/360-image-viewer.git
+git clone https://github.com/Experience-Monks/360-image-viewer.git
+npm init 
+npm i 
+node app
+cd vr-project
+npm run dev
+cd node3d
+git clone https://github.com/Experience-Monks/360-image-viewer.git
+cd 360-image-viewer
+npm i
+npm index
+node index
+node index .js
+cd vr-project
+npm install pannellum`
+
+npm install three`
+
+cd vr-project
+npm run dev
+cls
+npm run dev
+cd vr-project
+npm run dev
+cd vr-project
+npm un @react-three/drei @react-three/fiber 360-image-viewer pannellum three
+cd vr-project
+npm run dev
+cd vr-project
+npm i three
+npm install three-orbitcontrols
+git clone https://github.com/livebloggerofficial/360-Degree-Image-Viewer.git
+cd 360-Degree-Image-Viewer
+http-server
+npm install -g http-server`
+
+http-server`
+
+http-server
+cls
+http-server
+cd 360-Degree-Image-Viewer
+node main
+cls
+http-server
+cd vr-project
+npm run dev
+cd vr-project
+npm run dev
+npm i pannellum-react@latest
+npm i pannellum-react
+npm init vite@latest
+cd react3d
+npm i 
+npm i pannellum-react
+npm update
+npm i pannellum-react
+npm install pannellum-react --force`
+
+npm run dev
+npm install pannellum`
+
+npm install pannellum --force`
+
+npm run dev
+npm install pannellum-react --save`
+
+npm i 
+npm install pannellum-react --save`
+
+npm run dev
+npm install
+npm run dev
+npm install react-dom`
+
+npm run dev
+cd react3d
+npm run dev
+npm init@angular latest
+npm init angular@latest
+cd angular
+npm init angular@latest
+npm init angular
+cd react3d
+npm run dev
+npm install pannellum`
+
+npm run dev
+cd test
+node trial
+npm run dev
+npm init vite@latest 
+npm init quasar@latest
+mk dir planB
+mkdir planB
+cd plabB
+cd planB
+npm init quasar@latest
+ cd quasar-project
+npm run dev
+npm init bun
+mkdir bun
+cd bun
+npm init bun@latest -g
+npm init bun@latest
+cd my-bun-app
+npm run dev
+bun run dev
+npm i
+bun run dev
+npm run dev
+bun serve
+bun start
+npm start
+bun install
+npm i bun
+clear
+npm run dev
+cd expserver
+npm run dev
+cd reactbuild/reactfrontend
+node app
+cd react3d
+npm run dev
+cd react3d
+npm run dev
+cd expserver
+node app
+cd reactbuild/reactfrontend
+npm run dev\
+npm run dev
+cd reactbuild/reactfrontend
+npm run dev
+cd expserver
+node app
+npm init -y
+npm i express express-handlebars pg pg-promise cors
+npm i body-parser
+npm i path
+npm i dotenv\
+npm i dotenv
+npm init -y
+tsc --init
+npm i tsc
+init --tsc -y
+npm init tsc --y
+npm init typescript
+npm i 
+npm init typescript -y
+npm install express typescript @types/node @types/express`
+
+npm install pg pg-promise cors express-handlebars path`
+
+npm i @types/cors @types/path @types/body-parser @types/pg @types/pg 
+npm i @types/cors @types/body-parser @types/pg`
+
+npm un cors express express-handlebars path pg pg-promise 
+npm @types/express-handlebars
+ npm i @types/express-handlebars
+npm i @types/pg-client
+npm i @types/pg-promise
+npm i @types/path
+clear
+tsc
+npx tsc
+npm i typescript -g
+cd lib
+node index
+node index.js
+cd ..
+node index
+npx tsc
+node lib/index.js`
+
+npm i
+cls
+cd lib
+node index
+cd ..
+npm install express`
+
+node lib/index.js`
+
+cd lib
+node index
+cd ..
+cd src
+node index
+node index.ts
+tsc
+npx tsc
+cd lib
+cd ..
+node index
+cd src
+node index
+cd ..
+node lib/index.js`
+
+npm i cors
+node lib/index.js`
+
+cd src
+tsc
+node index
+cd ..
+node index
+cd lib
+node index
+cd lib
+node index
+nvm -v
+nx ls
+git -v
+notepad++ -v
+notepad -v
+nvm -v
+node -v
+run npi i -g nx
+run npm i -g nx
+npm i -g nx
+npm fund
+docker -v
+psql -v
+psql --help
+mssql -v
+pgadmin -v
+pdadmin
+visualstudio -v
+winmerge -v
+putty
+choco install nvm
+putty -version
+putty -v
+cd expserver
+node app
+cls
+cd expserver
+node app
+npm run dev\
+npm run dev
+cd "C:\Program Files\PostgreSQL\11\bin"
+psql -U postgres
+CREATE USER tracpostgres WITH CREATEDB CREATEROLE ENCRYPTED PASSWORD 'test123';
+"C:\Program Files\PostgreSQL\11\bin\psql" -U postgres -c "CREATE USER tracpostgres WITH CREATEDB CREATEROLE ENCRYPTED PASSWORD 'test123';"
+cd "C:\Program Files\PostgreSQL\11\bin"
+.\psql.exe -U postgres -c "CREATE USER tracpostgres WITH CREATEDB CREATEROLE ENCRYPTED PASSWORD 'test123';"
+nx run db-reset:run-script 
+"C:\Program Files\PostgreSQL\11\bin\psql" -U postgres
+cd "C:\Program Files\PostgreSQL\11\bin"
+cd psql
+cd "C:\Program Files\PostgreSQL\11\bin"
+CREATE DATABASE tracdb;
+createdb -U postgres tracdb
+"C:\Program Files\PostgreSQL\11\bin\psql" -U postgres
+"C:\Program Files\PostgreSQL\11\bin"
+cd "C:\Program Files\PostgreSQL\11\bin"
+.\psql.exe -U <username> -d <database_name>
+cd "C:\Program Files\PostgreSQL\11\bin"
+createdb -U postgres tracdb
+CREATE USER tracpostgres WITH CREATEDB CREATEROLE ENCRYPTED PASSWORD 'test123';
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx build trac-web
+nx build trac-api 
+nx build trac-api 
+nx serve trac-api
+nx serve trac-web
+node lib/index
+cd expderver]
+cd expserver
+cd expserver1
+node lib index
+node lib/index
+cd reactbuild1
+npm init vite@latest
+cd reactweb
+npm i
+npm run dev
+npm i axios
+npm run dev
+nx run db-reset:run-script
+nx build trac-api
+nx build trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-web
+"C:\Program Files\PostgreSQL\11\bin\psql" -U postgres
+GRANT ALL PRIVILEGES ON DATABASE tracdb TO tracpostgres;
+"C:\Program Files\PostgreSQL\11\bin\psql"
+-U postgres
+& "C:\Program Files\PostgreSQL\11\bin\psql" -U postgres
+nx serve trac-api
+nx serve trac-web
+npx update-browserslist-db@latest
+nx serve trac-web
+nx build trac-api 
+nx build trac-web
+nx serve trac-api
+ nx serve trac-web
+cd reactbuild/reactweb
+cd reactbuild1/reactweb
+npm run dev
+cd reactbuild/reactfrontend
+npm run dev
+cd expserver1
+node app
+node lib/index
+tsc -v
+typescript -v
+npm typescript -v
+npx tsc
+npx tsc
+node lib/index
+npx tsc
+node lib/index
+cd reactfrontend1
+cd reactfrontend
+cd reactbuild/reactfrontend
+npm run dev
+cd expserver
+node app
+cd reactbuild1/reactweb
+npm run dev
+cd expserver
+nx run trac-api:serve
+nx serve trac-web
+nx serve trac-api
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx server trac-api
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-api
+import GetAndUpdateProducts from "./app/GetAndUpdateProducts";
+nx serve trac-api
+nx serve trac-web
+C:\Program Files\PostgreSQL\11\bin>createuser tracpostgres --createdb --createrole --login --superuser
+createuser: too many command-line arguments (first is "--createdb")
+Try "createuser --help" for more information.
+C:\Program Files\PostgreSQL\11\bin>
+cd "C:\Program Files\PostgreSQL\11\bin"
+.\psql -U postgres
+$media_path = "<path where SSMS-Setup-ENU.exe file is located>"
+ $install_path = "<root location where all SSMS files will be installed>"
+ $params = " /Install /Quiet SSMSInstallRoot=$install_path"
+ Start-Process -FilePath $media_path -ArgumentList $params -Wait
+ $media_path = "C:\Installers\SSMS-Setup-ENU.exe"
+$install_path = "$env:SystemDrive\SSMSto"
+$params = "/Install /Quiet SSMSInstallRoot=`"$install_path`""
+Start-Process -FilePath $media_path -ArgumentList $params -Wait
+$media_path = "C:\Installers\SSMS-Setup-ENU.exe" 
+$install_path = "C:\Program Files\SSMSto" 
+$params = "/Install /Quiet SSMSInstallRoot=$install_path"
+Start-Process -FilePath $media_path -ArgumentList $params -Wait
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+npm init vue@latest 
+cd vue-gamer
+npm i 
+npm run dev
+cd vue-gamer
+npm install phaser
+cd vr-project/
+cd vr-project
+npm run dev
+nx serve trac-api
+nx serve trac-web
+npm run lint
+npx run lint
+npx run test
+nx serve trac-api
+nx serve trac-web
+nx serve api
+nx serve trac-api
+nx serve trac-web
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx build trac-web
+nx build trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx build trac-web
+nx build trac-api
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+git clone https://github.com/Shyam20001/NodeRollupv4.5.0.git
+cd NodeRollupv4.5.0
+npm i 
+cd NodeRollupv4.5.0
+npm run build:prod
+cd dist
+nodemon bundle
+npm start
+npm run start-tsnode
+npm start
+nodemon bundle
+npm start
+npm test
+npm start
+npm run build:prod
+npm i @types/cors cors --save
+npm run build:prod
+npm start
+nodemon bundle
+npm run build:prod
+npm start
+nodemon bundle
+npm run start-tsnode
+npm start
+nodemon bundle
+npm start
+cls
+npm start
+npm i @types/express-handlebars express-handlebars
+npm un  @types/express-handlebars express-handlebars
+curl http://localhost:3000/data`
+
+curl http://localhost:30020/data
+curl http://localhost:3002/data
+Invoke-WebRequest -Uri "http://localhost:3002/data" -UseBasicParsing
+# Define the value you want to insert
+$newValue = @{`
+    newVal = "4"  # Change this to the value you want to insert`
+}
+# Convert the value to JSON format
+$jsonData = $newValue | ConvertTo-Json
+# Send a POST request to insert the new value
+Invoke-WebRequest -Uri "http://localhost:3002/data" -Method POST -Body $jsonData -ContentType "application/json" -UseBasicParsing
+# Define the value you want to insert
+$newValue = @{`
+    newVal = "4" `
+}
+# Convert the value to JSON format
+$jsonData = $newValue | ConvertTo-Json
+# Send a POST request to insert the new value
+Invoke-WebRequest -Uri "http://localhost:3002/data" -Method POST -Body $jsonData -ContentType "application/json" -UseBasicParsing
+$newValue = @{`
+    newVal = "4" `
+}
+$jsonData = $newValue | ConvertTo-Json
+Invoke-WebRequest -Uri "http://localhost:3002/data" -Method POST -Body $jsonData -ContentType "application/json" -UseBasicParsing
+Invoke-WebRequest : 
+Error
+Cannot POST /data
+At line:1 char:1
++ Invoke-WebRequest -Uri "http://localhost:3002/data" -Method POST -Bod ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExcepti  
+   on
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+PS D:\Domestic\Projects\ExpressRollup\NodeRollupv4.5.0>cls
+cls
+npm start
+npm i @types/body-parser body-parser pug
+npm start
+npm i @types/pug
+npm start
+npm run build:prod
+npm start
+nodemon bundle
+npm run build:prod
+npm start
+nodemon bundle
+cd NodeRollupv4.5.0
+npm start
+cd NodeRollupv4.5.0
+cd dist 
+nodemon bundle
+cd NodeRollupv4.5.0
+npm start
+cd NodeRollupv4.5.0
+cd dist 
+nodemon bundle
+cd NodeRollupv4.5.0
+npm start
+cd NodeRollupv4.5.0
+cd dist 
+nodemon bundle
+npm run build:prod
+npm start
+cd NodeRollupv4.5.0
+cd production
+nodemon bundle.min.js
+npm run build:prod
+npm start
+npm run start-tsnode
+npm run build:prod
+npm install ncp --save-dev
+npm run build:prod
+npm run
+npm i copyfiles --save-dev
+npm run build:prod
+npm run copy-views
+npm un  copyfiles --save-dev
+npm un install ncp --save-dev
+npm run build:prod
+npm run copy-views
+npm i copyfiles --save-dev
+npm run copy-views
+npm run build:prod
+npm run copy-views
+npm install ncp --save-dev
+npm run copy-views
+cd NodeRollupv4.5.0
+cd production
+npm run build:prod
+npm run copy-views-prod
+npm run copy-views
+npm run start
+cd dist
+nodemon bundle
+cd NodeRollupv4.5.0
+cd production
+nodemon bundle.min
+nx serve trac-api
+nx serve trac-web
+npm i xlsx exceljs
+npm i @types/xlsx @types/exceljs
+npm run build:prod
+npm install node-fetch @types/node-fetch
+cd dist
+nodemon bundle 
+npm install cross-fetch
+node bundle
+nodemon bundle 
+npx create-turbo@latest UniqueApp
+npm run build
+cd UniqueApp
+npm run build
+npm run dev
+npx lerna init
+npm run learna
+npm run lerna
+npx lerna run build
+npx lerna run test,build,lint
+npm init lerna
+npm i lerna
+node lerna
+cls
+npm run start
+npm install @types/xlsx
+npm run start
+npm run build:prod
+cd dist
+nodemon bundle
+cd production
+nodemon bundle.min.js
+cd dist
+nodemon bundle
+npm run start
+cls
+npm run start
+cd dist
+nodemon bundle 
+nx serve
+nx serve trac-api
+nx serve trac-api
+nx serve
+nx serve trac-api
+nx build trac-web
+nx build trac-api
+nx serve trac-api
+nx build trac-web
+nx serve\
+nx serve
+nx serve trac-api
+npm run test
+npm run dev
+nx serve
+nx serve trac-api
+npx create-nx-workspace unique
+npm install -g @nrwl/cli
+cls
+npx create-nx-workspace unique
+cd unique
+nx serve
+nx serve ultimate
+nx serve unique
+npx add -D @nrwl/react
+cd ..
+npx add -D @nrwl/react
+cd unique
+nx generate @nrwl/react:app
+nx add @nrwl/react
+nx npm @nrwl/react
+nx graph
+nx reset
+nx graph
+npx create-nx-workspace@latest --preset=react
+npx create-nx-workspace@latest --preset=empty
+npx create-nx-workspace@latest --preset=react
+nx serve frontend
+npx create-nx-workspace ng-mf
+nx generate @nrwl/express:application backend
+cd ng-mf
+nx generate @nrwl/express:application backend
+cd ..
+nx generate @nrwl/express:application backend
+cd ng-mf
+nx generate @nrwl/express:application backend
+cd ng-mf
+nx serve
+nx serve lavanya
+nx generate @nrwl/react:application frontend
+nx generate @nrwl/express:application backend
+nx generate @nrwl/express:application backend --verbose
+npx create-nx-workspace shahul
+cd shahul
+ nx generate @nrwl/express:application backend
+nx generate @nrwl/express:application backend --verbose
+ nx generate @nrwl/express:application backend
+npx create-nx-workspace harsha
+cd harsha
+nx serve harsa
+nx serve harsha
+cd ..
+nx serve harsha
+npx create-nx-workspace kowselya
+npm i --save-dev @nx/express
+npm install -D @nx/react
+nx g @nx/react:app my-app
+npm install -D @nx/vue
+nx g @nx/vue:app my-app
+nx g @nx/vue:app unique
+nx g @nx/vue:app vueApp
+vueApp @ vueApp
+nx clear-cache
+nx g @nrwl/vue:app vueApp
+nx g @nx/vue:app vueApp
+nx g @nx/vue:app vueApp --verbose
+nx serve vue-app
+nx g @nrwl/react:app reactApp
+npm install -D @nx/quasar
+npm install -D @nx/qwik
+npm install -D @nx/svelte
+npm install -D @nx/vue
+npm install --save-dev @nx/vite @nx/js vitest vite svelte svelte-check @sveltejs/vite-plugin-svelte
+npm install -D @nx/vitest vite svelte svelte-check @sveltejs/vite-plugin-svelte
+svelte svelte-check @sveltejs/vite-plugin-svelte
+npm install -D @nx/svelte svelte-check @sveltejs/vite-plugin-svelte
+nx g @nx/react:app reactApp
+nx serve unique
+nx serve reactApp
+nx serve react-app
+nx serve vue-app
+nx serve react-app
+npm install -D @nx/vue
+nx g @nx/vue:app vueApp
+nx serve vue-app
+npm install -D @nx/react
+nx g @nx/vue:app reactApp
+nx serve react-app
+nx g @nx/react:app reactApp
+nx serve react-app
+npm install -D  @nx/express
+nx g @nx/express:app expressApp
+nx serve express-app
+nx serve vue-app
+nx serve unique
+nx serve react-app
+nx serve react-app
+nx serve vue-app
+nx serve react-app
+nx serve vue-app
+nx serve express-app
+nx build
+nx serve react-app
+cls 
+nx serve vue-app
+nx serve unique
+nx test
+nx test reactApp
+nx test unique
+npx nx connect-to-nx-cloud
+nx test
+nx test react-app
+nx test vue-app
+nx test unique
+nx test vue-app
+nx test react-app
+nx test express-app
+nx serve vue-app
+nx build vue-app
+nx serve vue-app
+nx serve vue-app\
+nx serve vue-app
+nx test vue-app
+nx reset
+nx test vue-app
+nx test
+nx reset
+nx test unique
+nx test vue-app
+nx test reac-app
+nx test react-app
+nx test reac-app
+cls
+nx serve trac-web
+nx serve trac-api
+cls
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+cls
+nx serve trac-web
+nx serve pdftest
+nx test pdftest
+nx serve iol-extract
+nx serve tedioustest
+nx serve test tedioustest
+nx serve trac-audit-data
+nx test trac-audit-data
+npm install -D  @nx/quasar
+npm install -D  @nrwl/quasar
+npm install -D  quasar
+nx g @nx/quasar:app quasarApp
+nx g quasar:app quasarApp
+nx g @nx/quasar:app quasarApp
+npm un install -D  quasar
+npm i 
+npm u
+npm update
+nx serve unique
+nx serve react-app
+nx serve vue-app
+nx serve react-app
+nx serve vue-app
+nx serve unique
+nx serve react-app
+nx serve vue-app
+nx graph
+nx graph --file=output.json
+nx serve trac-api
+nx serve trac-web
+npm un install -D --workspaces false docker@1.0.0
+npm un docker
+nx rollup init
+nx rollup
+nx g @nx/rollup:init ...
+nx build express-app
+nx build vue-app
+nx build react-app
+npm run bundle
+nx bundle 
+npm i -D rollup
+nx bundle 
+npm un  -D rollup
+npm i
+npm fund
+nx serve 
+nx serve express-app
+nx serve vue-app
+nx serve react-app
+nx serve react-app
+nx serve react app --verbose
+nx serve react-app --verbose 
+nx serve react-app 
+nx serve vue-app
+nx serve express-app
+nx serve trac-api
+nx serve trac-web
+nx g @nx/js:lib my-lib --directory=libs/my-lib
+nx g @nx/js:lib my-lib --directory=libs/src
+nx g @nx/js:lib my-lib 
+nx g @nx/js:lib my-lib --directory=libs
+nx g @nx/js:lib my-lib --directory=src
+nx g @nx/js:lib my-lib --directory=libs/my-lib
+nx build my-lib-my-lib
+nx test my-lib-my-lib
+nx serve my-lib-my-lib
+nx serve unique
+nx serve react-app
+nx serve vue-app
+nx g @nx/js:lib src
+nx g @nx/js:lib libs
+nx g @nx/js:lib library
+nx g @nx/js:lib my-lib --directory=libs/psql
+nx g @nx/js:lib my-lib --directory=libs/mssql
+nx g @nx/js:lib my-lib --directory=libs/mongodb
+nx g @nx/js:lib my-lib --directory=libs/datatypesConfig
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx graph
+nx buid trac-web
+nx build trac-api
+nx serve trac-web
+nx serve trac-api
+nx build trac-audit-data
+nx build tedioustest
+nx build pdftest
+cd "C:\Program Files\PostgreSQL\11\bin"
+pg_dump -U tracpostgres -d tracdb -n tracauditschema -Fc -f "D:\original\TRACNEW2\auditData.dump" -t auditdata_dump
+& "C:\Program Files\PostgreSQL\11\bin\pg_dump.exe" -U tracpostgres -d tracdb -n tracauditschema -Fc -f "D:\original\TRACNEW2\auditData.dump" -t auditdata_dump
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+npm start
+cd dist
+nodemon bundle
+npm i mssql
+nx serve trac-api
+npm i express mssql 
+node app
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+node app
+npm start
+cd dist
+nodemon bundle
+npm i figlet @types/figlet
+npm run build:prod
+npm start
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+npm tauri init 
+npm init tauri@latest
+npm init electron@latest
+npx init electron 
+npm init electron-app@latest my-app
+npm init electron-app@latest
+npm start
+npm run make
+nx serve trac-web
+nx serve trac-api
+npm run start
+nx serve trac-web
+nx serve trac-api
+npm run start
+ nx g my-generator
+nx generate @nx/plugin:generator my-generator --project=my-plugin
+npm run start
+nx serve trac-api
+nx serve --inspect trac-api
+nx serve trac-api --inspect
+node app/src/trac-api/main.ts
+node apps/src/trac-api/main.ts
+cd apps
+cd trac-api
+cd src
+node main
+ cd..
+cd..
+npx browserslist '> 0.5%, not IE 11'
+nx g my-generator
+nrwl g my-generator
+nx g my-generator
+nx g my-generator --verbose
+nx generate @nrwl/vue:app my-vue-app
+nx generate vue:app my-vue-app
+nx g @nx/vue:app vueApp
+nx g @nx/react:app vueApp
+nx generate @nrwl/react:app my-vue-app
+nx generate @nrwl/vue:app my-vue-app
+nx generate @nrwl/svelte:app my-vue-app
+nx g @nx/react:app vueApp
+nx g @nrwl/react:app vueApp
+nx g @nrwl/vue:app vueApp
+nx g @nx/react:app vueApp
+nx g @nrwl/react:app vueApp
+nx serve trac-api
+npm run start
+nx serve trac-api
+npm run start
+nx serve trac-api
+nx build 
+nx build trac-api
+nx serve trac-api
+nx serve trac-web
+nx serve 
+nx serve vue-app
+nx g my-generator
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve 
+nx serve express-app
+nx serve vue-app
+npm install -g typescript
+nx serve express-app
+ ${env:NODE_OPTIONS}=' --require "c:/Users/Unique/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/bootloader.js"  --inspect-publish-uid=http'; ${env:VSCODE_INSPECTOR_OPTIONS}=':::{"inspectorIpc":"\\\\.\\pipe\\node-cdp.11848-0a3d4fc0-107.sock","deferredMode":false,"waitForDebugger":"","execPath":"C:\\Program Files\\nodejs\\node.exe","onlyEntrypoint":false,"autoAttachMode":"always","fileCallback":"C:\\Users\\Unique\\AppData\\Local\\Temp\\node-debug-callback-8c0f66fb8f0048a8"}'; & 'C:\Program Files\nodejs\node.exe' '-r' 'ts-node/register' 'D:\Domestic\Projects\Nx\Op-blue\harsha/express-app/src/main.ts' 
+nx g trac-api
+nx g trac-api/src/main.ts
+nx g my-generator
+nx serve trac-api
+ts-node apps/trac-api/src/main.ts
+ts-node --require ts-node/register apps/trac-api/src/main.ts
+npm install -D ts-node
+ts-node --require ts-node/register apps/trac-api/src/main.ts
+nx generate @nrwl/express:application db-reset
+nx generate @nx/express:application db-reset
+nx generate @nrwl/express:application db-reset
+nx g @nx/express:app db-reset
+nx g @nx/express:app xpressdb
+nx g @nx/react:app vueApp
+npm i express
+nx g @nx/express:app xpressdb
+nx g @nx/express:app express-apps
+nx g @nx/express:app my-express-api --directory=apps/my-express-api
+nx g @nx/express:app muukan --directory=apps/muukan
+ npx create-nx-workspace --preset=express
+nx g @nx/express:init ...
+nx generate init ...
+nx g ng-add ... #same
+npm install -D @nx/express
+nx g @nx/express:app express-api
+nx g @nx/express:app muukan
+nx g @nx/express:app muukanApps
+npm run start
+npm init express
+npm init express --y
+npm init --y
+npm add express
+node app
+node app.mjs
+node app.js
+node app
+node app.mjs
+nodemon app.mjs
+nx serve trac-web
+nx serve trac-api
+nx build trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+npm init -y
+touch app.js
+cls
+npm i express loadash 
+nodemon app
+nodemon app.mjs
+nodemon app.cjs
+node app
+npm un loadash
+npm i lodash
+nodemon app.mjs
+nx run trac-web
+cls
+nx run trac-api
+nx run trac-web
+nx serve trac-api
+nx serve trac-web
+nodemon app.mjs
+ts-node app2.ts
+npx ts-node app2.ts
+npx ts-node ./app2.ts
+npm install -g ts-node
+npx ts-node ./app2.ts
+ts-node app2.ts
+ts-node app2
+nodemon app.mjs
+nodemon ts-node app2
+ts-node app2
+ts-node-dev your_file.ts
+ts-node-dev app2
+npm start ts-node-dev app2
+npm  ts-node-dev app2
+start  ts-node-dev app2
+npx ts-node-dev your_file.ts
+npx ts-node-dev app2
+npx ts-node-dev --watch your_file.ts
+npx ts-node-dev --watch app2
+npm ts-node-dev --watch app2
+ ts-node-dev --watch app2
+ ts-node-dev  app2  --w
+npm start-ts
+npm start
+npm run start
+ts-node-dev app2
+ts-node app2
+git init
+git add
+git add lodash
+git add ./lodash
+gitgit add --all
+git add --all
+git commit -m "this is added by sonali"
+git remote add origin https://github.com/chromecruzer/unique-trial.git
+git push -u origin main
+git branch
+git push -u origin master
+git push origin master
+git init
+gitgit add --all
+git add.
+git add -all
+git add --all
+git remote add origin <remote_repository_URL>
+git remote add origin https://github.com/chromecruzer/unique-trial.git
+git init
+git remote add origin https://github.com/chromecruzer/unique-trial.git
+git init
+git remote add origin https://github.com/chromecruzer/unique-trial.git
+git remote -v
+git add --all
+git checkout branch-name
+git status
+git push origin master
+git status
+git branch
+git merge
+git status
+git remote -v
+git checkout master
+git fetch origin
+nrwl serve trac-api
+nx serve trac-api
+nx serve trac-web
+ts-node app2.ts
+cls
+ts-node app2.ts
+git add .
+git init
+git status
+git add .
+git commit -m "its uploaded by agalya"
+git push master
+git push origin
+ts-node app2.ts
+cls
+ts-node app2.ts
+nodemon app.js
+nodemon app.mjs
+git init
+git status
+git add .
+git commit -m "this was added by ajith"
+git push origin
+cls
+nodemon app.mjs
+ts-node app2.ts
+git init
+git status
+git add .
+git commit -m "this was added by kowsi"
+git push origin
+nx serve trac-api\
+nx serve trac-api
+nx serve trac-web
+cd hono
+npm init hono@latest
+cd src.
+cd src/my-app
+cd src
+cd my-app
+npm i 
+npm run dev
+git init
+git status
+git branch
+git add .
+git commit -m "this was added by shahul"
+git push origin
+cls
+nx test
+nx test trac-api
+nodemon app
+nodemon app.mjs
+ts-node app2.ts
+nx graph
+nx serve trac-web
+nx serve trac-api
+nx graph 
+nx test trac-api
+nx test trac-web
+nodemon app.mjs
+ts-node app2.ts
+nx serve trac-api
+nx serve trac-web
+nx test trac-api
+nx serve tra]
+nx test trac-web
+nx graph
+npx -y create-nx-workspace@latest acme --preset=@monodon/rust
+nx g @monodon/rust:binary myapp --directory=apps/myapp
+nx g @monodon/rust:library cats --directory=libs/cats
+cd acme
+nx g @monodon/rust:binary myapp --directory=apps/myapp
+nx g @monodon/rust:library cats --directory=libs/cats
+nx run myapp:run
+nx serve
+nx serve acme
+nx serve apps/src/main.rs
+nx run myapp:run
+nx run
+nx run myapp:run
+cd test
+npx -y create-nx-workspace@latest tester --preset=@monodon/rust
+cd acme
+npm i 
+nx run
+cd tester
+nx generate @monodon/rust:app rustApp
+nx generate @monodon/rust:app rustapp
+nx generate @monodon/rust:app myapp
+cd ..
+nx generate @monodon/rust:app myapp
+cd tester
+nx generate @monodon/rust:app myapp
+nx serve trac-api
+nx serve trac-web
+npm init fusebox
+cls
+npm init lerna
+cls
+npx create lerna:my-app
+cls
+npx lerna init
+npx parcel init
+cls
+npm install vue @vue/compiler-sfc parcel-bundler --save-dev
+npm init hono
+cd myArena
+hono run dev
+npm run dev
+npm i 
+npm run dev
+npm run test
+cls
+npm run dev
+npm install handlebars
+npm i fs
+cls
+npm run dev
+nx serve trac-api
+nx trac-web
+nx serve trac-web
+npm i nitro 
+cls
+npx giget@latest nitro
+cd nitro-app
+npm i 
+npm run dev
+npm update
+npm i 
+npm update
+npm update pg-promise @types/pg-promise
+npx fix --force
+npm fix --force
+npm audit --fix 
+npm i 
+npm audit fix --force
+npm i @types/chalk
+npm un  @types/chalk
+cls
+npm run dev
+cls
+npm run dev
+npm i --save-dev @types/jquery
+npm run dev
+cls
+npm run dev
+npm update pg
+npm i pg@latest
+npm i @types/pg @latest
+npm run dev
+nx serve db-reset
+npm i exceljs @types/exceljs
+npm run dev
+npm i xlsx @types/xlsx
+npm un @types/xlsx
+npm install vue-use-websocket
+npm i vue-native-websocket
+npm uninstall vue-use-websocket
+npm i react-use-websocket
+npm uninstall react-use-websocket
+npm un vue-native-websocket
+npm audit fix --force
+npm un xlsx
+npm i xlsx
+npm audit
+npm run dev
+npm update xlsx
+npm i
+npm install exceljs
+npm install @types/ exceljs
+npm run dev
+git init
+git remote add origin https:git@github.com:chromecruzer/nrpm-dbreset.git
+git status
+git add --all
+git commit -m "this is added by sam"
+git push origin master
+git branch
+git push master
+git push origin
+git push origin master
+git remote add origin git@github.com:chromecruzer/nrpm-db.git
+git status
+git add --all
+git remote rm git@github.com:chromecruzer/nrpm-db.git
+git remote rm git@github.com:chromecruzer/nrpm-dbreset.git
+git init
+git remote rm git@github.com:chromecruzer/nrpm-db.git
+git status
+cls
+cd nitro-app
+git init
+git remote rm git@github.com:chromecruzer/nrpm-db.git
+git remote rm git@github.com:chromecruzer/nrpm-dbreset.git
+git remote add origin git@github.com:chromecruzer/nrpm-db.git
+git remote -v
+git remote remove origin
+git status
+git remote -v
+git init
+git status
+git remote -v
+git init
+git remote add origin git@github.com:chromecruzer/nrpm-db.git
+git add -all
+git add --all
+git status
+git commit -m "added"
+git push orgin master
+git push orgin
+git remote -v
+git remote remove origin
+git remote remove master
+git remote add origin git@github.com:chromecruzer/dbreset.git
+git add --all
+git commit -m "sdf"
+git remote -v
+git remote remove origin
+git remote -v
+npm run dev
+git init
+git add remote origin git@github.com:chromecruzer/dbreset.git
+git remote add origin git@github.com:chromecruzer/dbreset.git
+git add --all
+cd nitro-app
+git init
+git add --all
+git commit -m "ravi"
+git status
+git remote -v
+git init
+git remote -v
+cd nitro-app
+git status
+git remote --v
+git init
+rmdir /s .git  # On Windows
+rmdir /s .git 
+rm -rf .git
+rmdir /s .git 
+Remove-Item -Path ".git" -Force -Recurse
+git init
+git remote add origin git@github.com:chromecruzer/dbreset.git
+git add --all
+git commit -m "added by Ravi"
+git push origin master
+git config --global user.name "Your Name"  # Set global user name
+git config --global user.email "your.email@example.com"  # Set global email
+git config --global user.name "Your Name"  # Set global user name
+git config --global user.email "your.email@example.com"  # Set global email
+git push origin master
+git status\
+git status
+git push origin 
+git push master
+git push origin master
+ssh -T git@github.com
+ssh-keygen -t ed25519 -C "your_email@example.com"
+cd nitro-express
+cd nitro-app
+git init
+Remove-Item -Path ".git" -Force -Recurse
+git init
+git remote add origin git@github.com:chromecruzer/dbreset.git
+git add --all
+git commit -m "added"
+git push origin master
+git remote -v
+git config --global user.name "chromecruzer"
+git config --global user.email "shayammurali@gmail.com"
+git push origin master
+git clone git@github.com:chromecruzer/dbreset.git
+git remote set-url origin https://github.com/chromecruzer/dbreset.git
+git add --all
+git commit -m "df"
+git push origin master
+git status
+git remote -v
+git push origin master
+cd nitro-app
+npm run dev
+cls
+npm run dev
+npm i 
+npm run dev
+cls
+npm run dev
+npm install lodash @types/lodash
+npm run dev
+cls
+npm run dev
+cls
+npm run dev
+git add --all
+git init
+git add --all
+git push origin master
+git status
+git merge
+git remote -v
+git push origin master -u 
+git status 
+git push origin master -u 
+git add --all
+git commit -m "added by kowsi"
+git push origin master 
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+cd nitro-app
+git add --all
+git commit -m "added with assets"
+git push origin master -u 
+git status
+npm run dev
+npm install @types/pg-promise@latest
+npm run dev
+npm uninstall exceljs
+npm install exceljs
+npm run dev
+cd nitro-express
+cd nitro-app
+cls
+npm run dev
+npm run build
+cls
+npm run dev
+npm i --save-dev @types/source-map-support
+npm run dev
+cls
+npm run dev
+cls
+npm run dev
+cls
+cls
+git init
+git remote add origin https://github.com/chromecruzer/muukanesakki.git
+git add --all
+git status
+git commit -m "added by shahul"
+git push origin master -u 
+git status
+cls
+Remove-Item -Path ".git" -Force -Recurse
+git init
+Remove-Item -Path ".git" -Force -Recurse
+git status
+git add --all
+git commit -m "added by sonali"
+git push origin master -u
+git status
+Remove-Item -Path ".git" -Force -Recurse
+git status
+npm init vue@latest
+cd shadcn-vue
+npm i 
+npm run dev
+npm install shadcn
+npm i shadcn-ui
+npm run dev
+npx shadcn-vue@latest init
+cd vue-shadow
+cls
+npm init vite
+cd vue-dark
+cd ..
+cd ..\
+cd gitclone-shadow
+git clone https://github.com/drehimself/shadcn-vue-example.git
+cd shadcn-vue-example
+npm i 
+npm run dev
+nx serve trac-api
+nx serve trac-web
+nx serve pdftest
+nx run pdftest:run-script
+npm i @monodon/rust
+nx g @monodon/rust:binary rust-app --directory=/rust-app
+cargo run
+nx generate @monodon/rust:library my-rust-node-lib --napi
+nx serve rust-app
+nx g @monodon/rust:library cats --directory=libs/cats
+nx run rust_app:run
+nx run _rust_app_rust_app:run
+nx run _rust_app_rust_app:build
+nx run _rust_app_rust_app:run
+cargo run 
+nx g @monodon/rust:library cats --directory=libs/cats
+rustup init
+rustup
+rust --help
+rustc --help
+cargo --version
+cargo run 
+cargo run _rust_app_rust_app
+nx run _rust_app_rust_app:run
+cargo run 
+rustc ./rust_app/rust_app/src/main.rs
+./main
+cargo run 
+cls
+cargo run 
+cargo run _rust_app_rust_app
+cargo run 
+cargo run _rust_app_rust_app
+cargo run libs_cats_cats
+cargo run 
+cargo run _rust_app_rust_app
+cargo run 
+cargo run --bin rust_app
+cargo run --bin _rust_app_rust_app
+cargo run 
+cargo new
+nx run libs_cats_cats:run
+nx run _rust_app_rust_app:run
+cargo build
+nx run _rust_app_rust_app:run
+cargo run
+nx build rust-app
+nx build _rust_app_rust_app
+cargo run _rust_app_rust_app
+cargo release
+cargo run 
+cargo run --bin rust_app
+cargo run --bin _rust_app_rust_app
+cd gitclone-shadow
+cd shadcn-vue-example
+npm run dev
+cd shadcn-vue-example
+cd gitclone-shadow
+cd shadcn-vue-example
+npm run dev
+cls
+npm run dev 
+npm i vue-toastification@next
+npm run dev
+git init
+git remote add origin https://github.com/chromecruzer/tester.git
+git status
+git add --all
+git check out branch-name
+git commit -m "added for RHEL-8"
+git push origin master -u
+git status
+nx serve trac-api
+cd gitclone-shadow
+cd shadcn-vue-example
+npm run dev
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-webn
+nx serve trac-web
+nx serve trac-api
+cls
+git init
+git remote add origin https://github.com/chromecruzer/TRACDEV.git
+git add --all
+git status
+git commit -m "added for RHEL-8"
+git push origin master -u
+git status
+nx serve trac-web
+cd gitclone-shadow/shadcn-vue-example
+npm run dev
+npm init vite
+cd react-test
+npm i 
+npm run dev
+npm run dev --host 
+npm run dev --host --0.0.0.0
+vite --host 0.0.0.0
+npm i -g vite
+vite --host 0.0.0.0
+npm run dev --host --0.0.0.0
+vite --host 0.0.0.0
+npm init vite
+cd qwikVr
+npm i 
+npm run dev
+npm update
+npm run dev
+npm init vite
+cd qwikVr
+npm i 
+npm run dev
+npm i aframe aframe-extras
+npm run dev
+npx vite
+cd qwikVr
+npx vite
+npm i --save-dev @types/aframe-extras
+npm update aframe-extra
+npm update
+npx vite
+npm i --save-dev @types/aframe-extras
+npm i @types/aframe-extras
+npx run dev
+npm run dev
+cd qwikVr
+vite host
+npm run dev -- --host
+npm run qwik add vercel-edge
+npm install -g @qwik/cli
+npm run qwik add vercel-edge
+npm qwik add vercel-edge
+ qwik add vercel-edge
+npm run qwik add
+npm i qwik-cli
+cls
+vite host
+npm i 
+vite host
+npm update
+vite host
+vite -- --host
+nx serve trac-api 
+nx graph
+cd qwikVr
+npm run build
+npm run deploy
+npm init vite
+npm i 
+cd test
+npm run qwik add vercel-edge
+npm run deploy
+npm install @qwik-city-plan
+npm install qwik-city-plan
+npm update vite rollup
+npm run deploy
+npm install vite-plugin-qwik-city --save-dev
+npm run dev
+cls
+npm run dev
+npm install 
+npm run dev
+cls
+npm run dev
+npm run dev\
+cls
+npm run dev
+cd qwikVr
+npm build
+npm run build 
+cd test
+npm run build 
+npm run qwik add
+cd react-test
+vercel deploy 
+cls
+netlify login 
+netlify deploy
+npx np-kill
+npx npkill
+cd react-test
+netlify login 
+netlify logout
+vercel logout 
+netlify login
+netlify deploy 
+npx npkill
+netlify logout
+cls
+cargo new harsha
+cargo build
+cd harsha
+cargo build
+cargo run 
+cargo --help
+cls
+rustc ./src/main.rs
+./main
+cargo warch 
+cargo run 
+cargo --list
+npx npkill
+cd qwikVr
+vite -- --host
+node cmd
+node cmd --Afaaq
+node cmd -- --Afaaq
+node cmd -- --name=Afaaq
+node cmd -- --name Afaaq
+nodemon cmd.js
+npm i exceljs
+nodemon cmd.js
+nodemon cmd.mjs
+npm run start
+nx serve trac-api
+nx serve trac-web
+nodemon cmd.mjs
+# Using --max-old-space-size flag
+node --max-old-space-size=4096 your-script.js
+node --max-old-space-size=4096 cmd.mjs
+npm install express-handlebars handlebars
+node --max-old-space-size=4096 cmd.mjs
+http-server
+npm init vite
+cd vuexl
+npm i 
+npm i exceljs
+npm run dev
+node --max-old-space-size=4096 cmd.mjs
+nodemon cmd.mjs
+node --max-old-space-size=4096 cmd.mjs
+git status
+cargo build
+cd harsha
+cargo build
+cargo run
+npm init vite
+cd flex
+npm i 
+npm run dev
+vite -- --host
+npm run dev
+cd qwikVr
+vite -- --host
+git clone https://github.com/Shyam20001/vueGLTF.git
+cd vueGLTF
+npm i 
+vite -- --host
+git clone https://github.com/Shyam20001/benazir.git
+npm run dev
+vercel deploy
+cd agals
+npm run dev
+vercel deploy
+vercel logout
+netlify logout
+cd harsha 
+cargo run 
+cargo build --target x86_64-apple-darwin --release
+cargo build --target x86_64-unknown-linux-gnu --release
+rustup target add x86_64-unknown-linux-gnu
+cargo build --target x86_64-unknown-linux-gnu --release
+rustup target remove x86_64-unknown-linux-gnu
+rustup target list
+rustup target remove x86_64-unknown-linux-gnu
+rustup update
+rustup self cleanup
+rustup target list
+rustup target remove x86_64-unknown-linux-gnu
+rustup target remove x86_64-unknown-linux-gnu --toolchain stable
+rustup update
+rustup target remove x86_64-unknown-linux-gnu --toolchain stable
+# Switch to the stable toolchain for Linux
+rustup toolchain install stable-x86_64-unknown-linux-gnu
+# Set the active toolchain to the newly installed one
+rustup default stable-x86_64-unknown-linux-gnu
+# Remove the target
+rustup target remove x86_64-unknown-linux-gnu
+rustup target list
+# Switch back to the original toolchain
+rustup default stable-x86_64-pc-windows-msvc
+cargo run
+cargo build --release
+cargo build 
+cargo run
+cd rust_app/rust_app
+cargo run
+cd src
+cargo run
+cd ..
+cd libs
+cd cats/cats/src
+cargo run
+cargo build
+cargo run
+cargo build
+cargo run
+cargo run --bin my_binary
+cd ..
+cargo run --bin my_binary
+cargo run
+cd src
+cd lib.rs
+cargo run
+cargo run --bin my_binary
+cd ..
+cargo run --bin my_binary
+cd ..
+cargo run --bin my_binary
+cargo run
+npm i 
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nodemon app.js
+cd harsha
+cargo watch --exec 'cargo run'
+cargo i cargo-watch
+cargo install cargo-watch
+cargo watch --exec 'cargo run'
+cargo run
+cargo watch -x 'run'
+cd kowsi
+nodemon app.js
+cargo fix --bin "harsha"
+cargo watch -x 'run'
+cargo run
+cargo watch -x 'run'
+nx build db-reset
+nx build libs
+nx build
+nx build my-lib
+nx build datatypes
+nx build library
+nx build --all
+nx build db-reset
+nx serve trac-api
+nx serve trac-web
+nx build db-reset
+nx build trac-api
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trace-api
+nx serve trac-web
+nx serve trac-api
+putty -v
+cls
+nx serve trac-api
+cd kowsi
+nodemon app.js
+cd harsha 
+cargo --x 'run'
+cargo --exec 'run'
+cargo watch -x 'run'
+cd expserver
+nodemon app.js
+cd reacbuild/teactfrontend
+cd reacbuild/reactfrontend
+cd reactbuild/reactfrontend
+cls
+npm run dev
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+npx create-nx-workspace@latest
+cls
+cd docker-pro
+nx serve docker-pro
+cd docker-pro
+nx serve docker-pro
+npm install -D @ nx/react
+npm install -D @nx/react
+nx g @nx/react:app dockerClient
+nx g @nx/react:app 
+nx show project docker-client --web
+nx generate @nrwl/workspace:library libs
+nx generate @nrwl/workspace:library my-libs
+nx g @nx/ts:lib libs 
+npm i @nx/ts
+npm install -D @nx/ts
+nx g @nx/js:lib libs
+clear
+cd ..
+cd docker-pro
+cd apps
+cd docker-client
+npx nx g @nx/node:setup-docker
+cd ..
+cd.. 
+cd ..
+cd docker-pro
+clear
+nx serve docker-pro
+nx serve docker-client
+cls
+nx serve docker-pro
+ cd docker-pro
+cls
+nx serve docker-client
+cd docker-pro
+nx graph
+cd docker-proto
+cls
+docker-pro
+cd docker-pro
+cls
+docker-compose build
+cd docker-pro
+cd docker-proto
+cd docker-pro
+cd apps/docker-pro
+docker-compose build
+docker run
+cd ..
+nx generate library ...
+cls
+nx g lib ... #same
+cls
+docker pull node
+docker-compose build
+node docker backup/volume.js --version
+cd docker
+node backup-volume.js --version
+node backup-volumes.js --version
+cls
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+wsl --set-default-version 2
+wsl --v
+wsl 1 --v
+wsl --update
+wsl --shutdown
+wsl --restart
+wsl --version
+npm gigit@latest
+npm giget@latest
+cls
+npm init giget@latest
+cls
+npx init giget@latest
+cls
+npx i giget@latest
+cls
+npm i giget@nitro-pack
+cls
+npm i nitro
+npx npkill
+cls
+npm giget@latest nitro
+npx giget@latest nitro
+cd nitro-app
+npm i 
+npm init vite
+cd vue-app
+npm i
+npm run dev
+npm run dev
+npm run dev -- --host=0.0.0.0
+npm run dev -- --host
+cd vue-app
+docker build -t vue-app:1.0
+docker build --help
+cls
+docker build -t shyampro360/vue-app:1.0
+cls
+docker build -t shyampro360/vue-app:1.0 .
+cls
+docker build -t shyampro360/vue-app:1.0 .
+docker run vue-app
+docker run sha256:b2c44563195a57a5ac1f0c0482c1bf4d56d14afacd241e33ec3d002470747dbc
+docker run -p 5000:5000  sha256:b2c44563195a57a5ac1f0c0482c1bf4d56d14afacd241e33ec3d002470747dbc
+cd nitro-app
+docker build -t shyampro360/nitro-app:1.0 .
+docker run -p 3000:3000  sha256:8725a17f12e35b06f6185a54c1aee136932f47c9e93bf0e7040919bfafeba4ef
+docker run -p 5000:5000  sha256:b2c44563195a57a5ac1f0c0482c1bf4d56d14afacd241e33ec3d002470747dbc
+docker run -p 3000:3000  sha256:8725a17f12e35b06f6185a54c1aee136932f47c9e93bf0e7040919bfafeba4ef
+cd vue-app
+npm run dev
+cd nitro-app
+npm run dev
+npm i axios 
+npm run dev
+npm i cors 
+cls\
+cls
+npm run dev
+cd ..
+cd Docker
+docker-compose build --no-cache
+docker-compose up
+git init
+git remote add origin https://github.com/chromecruzer/Docker-demo.git
+git add --all
+git commit -m "COMPLETED"
+git push origin main
+git branch
+git push origin master
+git checkout main
+git merge master
+git clone -b master https://github.com/chromecruzer/Docker-demo.git
+cd Docker-demo
+docker-compose build -no-cache
+docker-compose build --no-cache
+docker-compose up
+cls
+cls
+docker-compose up
+cls
+docker-compose up
+cls
+docker-compose build --no-cache
+cls
+npx kill-port 5000 3000
+docker-compose up
+cd kowsi
+npm install figlet
+node app
+cls
+docker-compose build --no-cache
+cd ..
+docker-compose build --no-cache
+cls
+cd harsha
+cargo build
+cd ..
+docker-compose build --no-cache
+cd harsha
+cargo build
+cargo run 
+docker-compose build --no-cache
+cls
+docker-compose build --no-cache
+cargo run
+cargo build
+docker-compose build --no-cache
+cd harsha
+cargo init
+cargo run init
+cargo fetch
+cargo build
+cargo run
+docker-compose build --no-cache
+cls
+cd ..
+docker-compose up
+cls
+docker-compose build --no-cache
+docker-compose up
+docker-compose build --no-cache
+docker-compose up
+docker-compose build --no-cache
+docker-compose up
+docker-compose build --no-cache
+docker-compose up
+docker-compose build --no-cache
+docker-compose up
+docker-compose build --no-cache
+docker-compose up
+docker-compose build --no-cache
+docker-compose up
+docker-compose build --no-cache
+docker-compose up
+docker-compose build --no-cache
+docker-compose up
+docker-compose build --no-cache
+docker-compose up
+docker-compose build --no-cache
+cd harsha
+cargo build
+cd ..
+docker-compose build --no-cache
+cd harsha
+cargo build
+docker-compose build --no-cache
+cls
+cargo build --release
+docker-compose build --no-cache
+cargo build --release
+docker-compose build --no-cache
+cls
+cargo build --release --target x86_64-harsha
+cargo build --release --target x86_64-unknown-linux-gnu
+docker-compose build --no-cache
+docker-compose up
+docker-compose build --no-cache
+docker-compose up
+docker-compose build --no-cache
+docker-compose up
+cls
+docker-compose build --no-cache
+docker-compose up
+cls
+docker-compose build --no-cache
+docker-compose up
+docker-compose build --no-cache
+docker-compose up
+docker-compose build --no-cache
+cls
+docker-compose build --no-cache
+docker-compose up
+docker-compose build --no-cache
+docker-compose up
+cls
+docker-compose build --no-cache
+docker-compose up
+cls
+git init
+git remote add origin https://github.com/chromecruzer/Docker-demo2.git
+git add --all
+git add .
+git commit -m "DONE"
+git add --all
+git commit -m "DONE"
+git add --all
+git init
+git remote add origin https://github.com/chromecruzer/Docker-demo2.git
+git add --all
+git commit -m "DONE"
+git init
+git add --all
+git rm --cached harsha/
+echo "harsha/" >> .gitignore
+git add --all
+cd harsha
+git init
+git add --all
+git commit -m "Initial commit"
+cd ..
+git add --all
+git commit -m "FINAL"
+git push origin master
+cd harsha
+git push origin master
+git status
+git add --all
+git push origin master
+git init
+git status
+git log
+git status
+git add --all
+git commit m "pushed"
+git commit -m "pushed"
+git push origin master
+git push origin main
+git push origin master
+git remote add origin <remote_repository_url>
+git remote add origin https://github.com/chromecruzer/Docker-demo2.git
+git add --all
+git commit -m "done"
+git push origin master
+git push origin master --force
+git remote remove origin
+cd ..
+git remote remove origin
+git init
+git remote add origin https://github.com/chromecruzer/Docker-demo2.git
+git add --all
+git commit -m "FINAL"
+git push origin master
+cls
+git remove origin 
+git remote remove origin
+git init
+git remote add origin https://github.com/chromecruzer/Rustaceans-container.git
+git add --all
+git commit -m "DONE"
+git push origin master
+git remote remove origin
+git remote -v
+git remote add origin https://github.com/chromecruzer/Docker-demo2.git
+git push -u origin master
+git add --all
+git commit -m "ADDED"
+git commit push origin master
+git push origin master
+cd harsha
+git remote remove origin
+git init
+git remove remote origin
+git remote remove origin
+git init
+git remote -v
+git remote rm origin
+git remote rm 
+git remote rm master
+git init
+git add --all
+git commit -m "ADDED"
+git push origin master
+git init
+git rm remote origin
+git remote rm origin
+git status\
+git status
+git logs
+git --help
+git log
+git init
+git remove origin remote
+git remote -v
+git remote add origin https://github.com/chromecruzer/Docker-demo2.git
+git remote remove origin
+git remote add origin https://github.com/chromecruzer/Docker-demo2.git
+git add --all
+git commit -m "DONE"
+git push origin master -u
+git pull origin master
+git pull origin master --allow-unrelated-histories
+git push origin master
+git add path/to/harsha/*
+git add ./harsha/*
+git submodule status
+cd harsha
+git push origin master
+git init
+git add --all
+git commit -m "DONE@2"
+git push orgin master
+git remote -v
+git init
+git remote -v
+git add --all
+git commit -m "Commit message"
+git push origin master
+cd ..
+git submodule status
+git submodule add <repository_url> harsha
+git submodule add https://github.com/chromecruzer/Docker-demo2.git harsha
+git rm --cached harsha
+git add harsha
+git submodule add <url> harsha
+git submodule add https://github.com/chromecruzer/Docker-demo2.git harsha
+git add harsha
+git rm --cached harsha
+git add harsha
+git commit -m "Add harsha directory"
+git push origin master
+git rm --cached --all
+git rm --cached --allgit rm --cached --all
+git rm --cached --all
+git reset HEAD
+git add .
+git commit -m "Initial commit"
+git push origin master -u
+git status
+git submodule deinit harsha
+git rm -rf harsha
+git commit -m "Remove harsha submodule"
+git submodule deinit -f harsha
+git remote remove origin
+git remote remove -d origin
+git remote remove origin
+git remote add origin <remote_url>
+git remote add origin https://github.com/chromecruzer/Corolla.git
+git add --all
+git commit -m "Tiffany-taylor"
+git push origin master -u
+git clone https://github.com/chromecruzer/harsha.git
+git clone -b master https://github.com/chromecruzer/Corolla.git
+cd harsha
+cargo run
+cd kowsi
+node app
+npm i 
+node app
+cd ..
+docker-compose build -no-cache
+docker-compose build --no-cache
+docker-compose up
+cd kowsi
+node app
+cls
+docker-compose up
+cd vue-app
+npm run dev
+docker-compose up
+cls
+cd gitclone-shadow
+cd shadcn-vue-example
+npm run dev
+npm i vue-toastification@next
+cd nitro-app/"npm run dev"
+cd nitro-app
+npm run dev
+vite host 
+vite host -- --host
+vite -- --host
+npm run dev
+docker-compose build --no-cache
+cls
+docker-compose up
+cls
+docker-compose up
+cls
+docker-compose up
+npx kill-port 3000
+docker-compose up
+npx kill-port 3000 5000
+docker-compose build --no-cache
+docker-compose up
+cls
+docker-compose build --no-cache
+cls
+docker-compose up
+cd nitro-app
+cd vue-app
+npm run dev
+npm run dev
+docker-compose build --no-cache
+cls
+docker-compose up
+docker-compose down
+cls
+docker-compose up
+docker-compose down
+docker-compose up
+docker-compose down
+cls
+npx create-nuxt-app --example with-turbopack
+cls
+# Vue and Nuxt
+npx create-turbo@latest -e with-vue-nuxt
+cd turbopack
+npm run dev
+cd harsha
+cargo run
+cd src
+cargo run lib
+cd ..
+rustc src/lib.rs
+./lib
+./main
+cargo run
+cd src
+cargo run lib
+cd lib
+cls
+cd ..
+cargo run
+cargo run --bin
+cargo build
+cargo run
+cargo run --bin my_binary
+cargo run
+cargo build
+cargo run
+cargo run 
+nx serve trac-api
+nx trac-web
+nx serve trac-web
+nx trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+cls
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+node --max-old-space-size=8192 ./node_modules/@nrwl/cli/bin/nx serve trac-api
+nx serve trac-api
+node --max-old-space-size=8192 ./node_modules/@nrwl/cli/bin/nx serve trac-api
+nx serve trac-web
+cls
+node --max-old-space-size=8192 ./node_modules/@nrwl/cli/bin/nx serve trac-api
+cls
+node --max-old-space-size=8192 ./node_modules/@nrwl/cli/bin/nx serve trac-api
+npx create react-app myapp
+npm create react-app myapp
+cls
+node app.js
+node --max-old-space-size=8192 ./node_modules/@nrwl/cli/bin/nx serve trac-api
+nx serve trac-web
+cls
+node --max-old-space-size=8192 ./node_modules/@nrwl/cli/bin/nx serve trac-api
+nx serve trac-web
+node --max-old-space-size=8192 ./node_modules/@nrwl/cli/bin/nx serve trac-api
+nx build trac-api
+node --max-old-space-size=8192 ./node_modules/@nrwl/cli/bin/nx serve trac-api
+cls
+nx serve trac-web
+npx npkill
+npm i install 
+node --max-old-space-size=8192 ./node_modules/@nrwl/cli/bin/nx serve trac-api
+nx serve trac-web
+cls
+nx serve trac-api
+cls
+node --max-old-space-size=8192 ./node_modules/@nrwl/cli/bin/nx serve trac-api
+nx serve trac-web
+nx serve trac-api
+nx serve trac-web
+node --max-old-space-size=8192 ./node_modules/@nrwl/cli/bin/nx serve trac-api
+nx serve trac-api
+node --max-old-space-size=8192 ./node_modules/@nrwl/cli/bin/nx serve trac-api
+cls
+node --max-old-space-size=8192 ./node_modules/@nrwl/cli/bin/nx serve trac-api
+cls
+npm install --legacy-peer-deps
+node --max-old-space-size=8192 ./node_modules/@nrwl/cli/bin/nx serve trac-api
+nx serve trac-web
+node --max-old-space-size=8192 ./node_modules/@nrwl/cli/bin/nx serve trac-api
+cls
+cd docker
+node create-git-dcoker
+node backup-volumes --version
+node clean-docker-development --version
+node backup-volumes --production
+node clean-docker-development --removeVolumes
+node backup-volumes --production
+node clean-docker-development --help
+node backup-volumes --help
+node create-test-certs --help
+node create-volumes --help
+node create-volume --help
+node backup-volumes --production
+node clean-docker-development --removeVolumes
+node restore-volume --Ali
+node restore-volume --h
+node restore-volume --help
+node restore-volume --name
+node restore-volume --name --Mani
+node restore-volume --name=  --Mani
+node start-development --help
+node start-development --certdir
+node start-development --pw
+ node backup-volumes.js --development
+ node backup-volumes.js --production
+node create-configs --help
+cd docker
+node create-configs --help
+node create-configs --pw
+node create-configs --tpw
+node create-configs --apihost
+node create-configs --smtphost
+node create-configs --smtpport
+node create-configs --configdir
+node create-configs --certdir
+node create-configs --certfile
+cd..
+node docker/create-configs --certfile
+node docker/create-configs --apihost
+node docker/create-configs --smtphost
+node docker/create-configs --configdir
+node docker/create-configs --certdir
+node docker/create-configs --certfile
+node docker/create-configs --certkeyfile
+node docker/create-configs --production
+node docker/create-uploads --help
+node docker/create-uploads --reset
+node docker/create-uploads --developement
+node docker/create-uploads --production
+node docker/create-pgdata --help
+node docker/create-pgdata --pw
+nx serve trac-api --skip-nx-cache
+nx serve trac-api 
+nx serve trac-web
+node docker/backup-volumes --production
+node docker/create-configs --certfile
+node docker/create-pgdata --help
+node docker/create-pgdata --pw
+nx serve trac-api 
+nx serve trac-web
+cd nitro-app
+npm run dev
+npm giget nitro@latest
+npx giget nitro@latest
+cls
+npx i giget@latest
+npm init giget@latest
+npm i giget@nitro-pack
+npm init giget@nitro-pack
+npx init giget@nitro-pack
+cls
+npx giget@latest nitro
+cd nitro-app
+cls
+npm i 
+npm install express body-parser @google/generative-ai dotenv @types/node @types/express @types/body-parser
+npm run dev
+npm run dev -- --host
+npm run dev
+npm install hbs
+npm i express-handlebars
+npm run dev
+npm un hbs
+npm run dev
+npm un express-handlebars
+npm install pug
+npm install --save-dev @types/pug
+npm run dev
+cls
+npm run dev -- --host
+cls
+git init
+git remote add orgin https://github.com/chromecruzer/Nitro-AI.git
+git add --all
+git status
+git commit -m "added by SHYAM@UNIQUE"
+git push origin master -u
+git push origin master 
+git push origin main
+git push origin master 
+git pull
+git merge
+git push origin master 
+git status
+git push origin master --u 
+git push origin master -force
+git push origin master --force
+git push origin master
+git push master
+git push main
+git push origin master
+git remote -v
+git remote add origin https://github.com/chromecruzer/Nitro-AI.git
+git push origin master
+cd nitro-app
+npm run dev
+cd nitro-app
+npm run dev -- --host
+npm run dev 
+nx serve trac-api 
+nx serve trac-web
+nx serve trac-api 
+nx serve trac-web
+nx serve trac-api 
+nx serve trac-web
+cargo watch --exec 'cargo run'
+cargo watch -x 'cargo run'
+nodemon app.mjs
+nodemon --exec ts-node app2.ts
+npm i lodash chalk @types/lodash @types/chalk 
+npm un @types/chalk
+cls
+npm init -y
+cls
+nodemon --exec ts-node app.ts
+git clone https://github.com/Shyam20001/Es-Bundler.git
+npm init react@latest --template --vite
+cls
+npm init vite
+cd Es-Bundler
+npm i 
+cd vue
+npm i 
+cd react
+npm i 
+npm run dev
+npm run dev
+nodemon --exec tsnode src/index.ts
+nodemon --exec ts-node src/index.ts
+npm run build
+node dist/index
+nodemon --exec tsnode express/src/index.ts
+nodemon --exec ts-node express/src/index.ts
+cd vue
+cd react
+ ${env:NODE_OPTIONS}=' --require "c:/Users/Unique/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/bootloader.js"  --inspect-publish-uid=http'; ${env:VSCODE_INSPECTOR_OPTIONS}=':::{"inspectorIpc":"\\\\.\\pipe\\node-cdp.14040-acfd0471-1.sock","deferredMode":false,"waitForDebugger":"","execPath":"C:\\Program Files\\nodejs\\node.exe","onlyEntrypoint":false,"autoAttachMode":"always","fileCallback":"C:\\Users\\Unique\\AppData\\Local\\Temp\\node-debug-callback-d0100779c161c3cf"}'; & 'C:\Program Files\nodejs\node.exe' '-r' 'ts-node/register' 'express\src\index.ts' 
+ ${env:NODE_OPTIONS}=' --require "c:/Users/Unique/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/bootloader.js"  --inspect-publish-uid=http'; ${env:VSCODE_INSPECTOR_OPTIONS}=':::{"inspectorIpc":"\\\\.\\pipe\\node-cdp.13652-ccc3daad-2.sock","deferredMode":false,"waitForDebugger":"","execPath":"C:\\Program Files\\nodejs\\node.exe","onlyEntrypoint":false,"autoAttachMode":"always","fileCallback":"C:\\Users\\Unique\\AppData\\Local\\Temp\\node-debug-callback-bb1b0093e36d73f2"}'; & 'C:\Program Files\nodejs\node.exe' '-r' 'ts-node/register' 'apps\trac-api\src\main.ts' 
+ d:; cd 'd:\TRAC-working\tester'; ${env:NODE_OPTIONS}=' --require "c:/Users/Unique/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/bootloader.js"  --inspect-publish-uid=http'; ${env:VSCODE_INSPECTOR_OPTIONS}=':::{"inspectorIpc":"\\\\.\\pipe\\node-cdp.13652-fd490cef-5.sock","deferredMode":false,"waitForDebugger":"","execPath":"C:\\Program Files\\nodejs\\node.exe","onlyEntrypoint":false,"autoAttachMode":"always","fileCallback":"C:\\Users\\Unique\\AppData\\Local\\Temp\\node-debug-callback-aefb6f9f28e6eff3"}'; & 'C:\Program Files\nodejs\node.exe' '-r' 'ts-node/register' 'apps\trac-api\src\main.ts' 
+ d:; cd 'd:\Trainee'; ${env:NODE_OPTIONS}=' --require "c:/Users/Unique/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/bootloader.js"  --inspect-publish-uid=http'; ${env:VSCODE_INSPECTOR_OPTIONS}=':::{"inspectorIpc":"\\\\.\\pipe\\node-cdp.14040-494d4a2c-4.sock","deferredMode":false,"waitForDebugger":"","execPath":"C:\\Program Files\\nodejs\\node.exe","onlyEntrypoint":false,"autoAttachMode":"always","fileCallback":"C:\\Users\\Unique\\AppData\\Local\\Temp\\node-debug-callback-2e0d47b3cc70155f"}'; & 'C:\Program Files\nodejs\node.exe' '-r' 'ts-node/register' 'express\src\index.ts' 
+cd express
+npm i ts-node
+ d:; cd 'd:\Trainee'; ${env:NODE_OPTIONS}=' --require "c:/Users/Unique/AppData/Local/Programs/Microsoft VS Code/resources/app/extensions/ms-vscode.js-debug/src/bootloader.js"  --inspect-publish-uid=http'; ${env:VSCODE_INSPECTOR_OPTIONS}=':::{"inspectorIpc":"\\\\.\\pipe\\node-cdp.14040-65c1296a-7.sock","deferredMode":false,"waitForDebugger":"","execPath":"C:\\Program Files\\nodejs\\node.exe","onlyEntrypoint":false,"autoAttachMode":"always","fileCallback":"C:\\Users\\Unique\\AppData\\Local\\Temp\\node-debug-callback-01d0edde99466682"}'; & 'C:\Program Files\nodejs\node.exe' '-r' 'ts-node/register' 'express\src\index.ts' 
+cd express 
+npm i ts-node/register
+npm i @types/ts-node 
+npm un ts-node 
+nodemon --exec ts-node src/index.ts
+cd vue
+npm run dev
+cd express
+npm install express pg compression @types/express @types/pg @types/compression
+npm install cors dotenv pg compression  @types/pg @types/compression @types/cors @types/dotenv
+npm un @types/dotenv
+npm i crypto @types/crypto
+npm i crypto
+nodemon --exec ts-node src/index.ts
+npm run build\
+npm run build
+ cd express
+nodemon dist/index
+nodemon --exec ts-node src/index.ts
+cd vue
+npm run dev
+npm i axios @types/axios
+npm run dev
+cd vue
+npm run dev
+nodemon --exec ts-node express/src/index.ts
+npx kill-port 6969
+nodemon --exec ts-node express/src/index.ts
+nx serve trac-api --max-old-space-size=8192
+nx serve trac-web --max-old-space-size=4096
+node --max-old-space-size=8192 ./node_modules/@nrwl/cli/bin/nx serve trac-api
+cd vue
+npm run dev
+nodemon --exec ts-node express/src/index.ts
+cd vue
+npm run dev
+cd express
+npm run build
+nx build trac-api
+npm run start
+cls
+node docker/backup-volumes --help
+node docker/backup-volumes --version
+node docker/backup-volumes --production
+node docker/clean-docker-development.js --help
+node docker/clean-docker-development.js -- remove all of the volumes 
+node docker/clean-docker-development.js --help
+node docker/backup-volumes --production
+docker run --help
+docker rm 45668b84bdff03a1cf2381a9477e3
+cls
+node docker/backup-volumes --help
+node docker/backup-volumes --production
+node docker/create-test-certs --help
+node docker/create-test-certs --certdir
+cls
+node docker/create-configs --help
+node docker/create-configs --pw
+node docker/create-configs --tpw
+node docker/create-configs --apihost
+node docker/create-configs --smtphost
+node docker/create-configs --smtpport
+node docker/create-configs --configdir
+node docker/create-configs --certdir
+node docker/create-configs --certfile
+node docker/create-configs --certkeyfile
+node docker/create-configs --production
+node docker/create-uploads --help
+node docker/create-uploads --production
+node docker/create-pgdata --help
+node docker/create-pgdata --pw
+node docker/create-pgdata --pw test123
+node docker/create-pgdata --pw test123 --clearAudits
+node docker/create-pgdata --pw test123 --configdir
+node docker/create-pgdata --pw test123 --certdir
+node docker/create-pgdata --pw test123 --configdir --certdir  --reset --production
+node docker/restore-volume --trac-dev-pgdata
+node docker/restore-volume --name trac-dev-pgdata
+node docker/restore-volume --name trac-pgdata
+node docker/restore-volume --name trac-uploads
+node docker/restore-volume --version
+node docker/start-development --help
+node docker/start-development --pw test123 --certdir --configdir
+node docker/start-development --pw test123 --certdir --configdir --no-cache
+node docker/start-development --pw --certdir --configdir --no-cache
+docker compose -f ./tmp/docker-compose-trac-development.yml restart
+docker compose -f ./tmp/docker-compose-trac-development.yml restart --pw test123
+node docker/start-development --pw test123 --certdir --configdir --no-cache -r
+node docker/start-development --pw test123 
+cd apps
+node docker/start-development --pw test123 
+node ./docker/start-development --pw test123 
+node start-development --pw test123 
+node docker/start-development --pw test123 --certdir /tmp/certs --configdir /tmp/config/ -r
+cd ..
+node docker/start-development --pw test123 --certdir /tmp/certs --configdir /tmp/config/ -r
+node docker/start-production --pw test123 --certdir /tmp/certs --configdir /tmp/config/ -r
+docker --version
+node docker/create-uploads --help
+node docker/create-uploads --version
+node docker/start-production --pw test123 -- --certdir --useVersion 0.9.16 /tmp/certs --configdir /tmp/config/ -r
+node docker/start-production --pw test123 -- --certdir --useVersion 0.9.16 /tmp/certs --configdir /tmp/config/ -r
+node start-production --pw test123 --useVersion 0.9.15
+node docker/start-production --pw test123 --useVersion 0.9.15
+node docker/start-development --pw test123 --useVersion 0.9.15
+node docker/start-development --pw test123 
+nx run build trac-api
+nx build trac-api
+node docker/start-development --pw test123 
+cls
+node docker/start-development --pw test123 
+docker-compose build --no-cache
+dockre-compose build --no--cache
+dockre-compose build --no-cache
+docker-compose build --no-cache
+cd tmp
+docker-compose build --no-cache
+docker-compose-trac-development build --no-cache
+docker docker-compose-trac-development build --no-cache
+docker-compose  docker-compose-trac-development build --no-cache
+docker run  docker-compose-trac-development build --no-cache
+cls
+node docker/start-development --pw test123 
+cd ..
+node docker/start-development --pw test123 
+cd TRACNEW2
+node docker/start-development --pw test123 
+node docker/clean-docker-development.js -- remove all of the volumes
+node docker/create-test-certs --certdir
+node docker/create-configs --pw test123 --tpw --apihost --smtphost --smtpport --configdir --certdir --certfile --certkeyfile
+node docker/restore-volume --trac-dev-pgdata
+node docker/restore-volume --name trac-dev-pgdata
+node docker/create-uploads --reset
+node docker/create-uploads --production
+node docker/restore-volume --name trac-dev-uploads
+docker rm 9db431effe35cb80c42c347c5182d18dff53a58d2aac026ae022da28db7a4107
+node docker/restore-volume --name trac-dev-uploads
+ node docker/create-configs --production
+node docker/create-uploads --production
+node docker/create-pgdata --pw test123 --configdir --certdir  --reset --production
+node docker/restore-volume --name trac-pgdata
+node docker/create-pgdata --pw test123 --configdir --certdir  --reset --production
+node docker/start-development --pw test123 --certdir --configdir
+cd ..
+node docker/start-development --pw test123 --certdir --configdir
+docker compose -f /tmp/docker-compose-trac-development.yml restart
+docker compose -f ./tmp/docker-compose-trac-development.yml restart
+docker compose -f ./tmp/docker-compose-trac-development.yml down
+node docker/start-development --pw test123 --certdir --configdir
+docker compose -f ./tmp/docker-compose-trac-development.yml down
+docker compose -f ./tmp/docker-compose-trac-development.yml restart 
+docker compose -f ./tmp/docker-compose-trac-development.yml restart --pd test123
+docker compose -f ./tmp/docker-compose-trac-development.yml restart --pwd test123
+docker compose -f ./tmp/docker-compose-trac-development.yml restart
+docker compose -f ./tmp/docker-compose-trac-development.yml up
+nx serve trac-api
+cls
+node docker/start-development --pw test123 --certdir --configdir
+cls
+node docker/clean-docker-development.js -- remove all of the volumes
+node docker/restore-volume --name trac-dev-pgdata
+node docker/restore-volume --name trac-pgdata
+node docker/clean-docker-development --removeVplumes
+node docker/clean-docker-development --removeVolumes
+node docker/create-uploads --reset
+docker rm 9db431effe35cb80c42c347c5182d18dff53a58d2aac026ae022da28db7a4107
+node docker/create-configs --pw test123 --tpw --apihost --smtphost --smtpport --configdir --certdir --certfile --certkeyfile
+node docker/create-test-certs --certdir
+node docker/restore-volume --name trac-pgdata
+node docker/restore-volume --name trac-dev-uploads
+node docker/create-volume --name trac-dev-uploads
+node docker/restore-volume --name trac-dev-uploads
+docker run -v C:\Users\bletzim.BLAMERICAS\repos\trac\docker\config:/config -v dev-trac-configs:/var/lib/trac/config \
+ --name trac-copy-config ubuntu bash -c 'cp -v /config/* /var/lib/trac/config'
+node docker/create-pgdata --pw test123 --configdir --certdir  --reset
+node docker/start-development --pw test123 --certdir --configdir
+docker run -v C:\Users\bletzim.BLAMERICAS\repos\trac\docker\config:/config -v dev-trac-configs:/var/lib/trac/config \
+--name trac-copy-config ubuntu bash -c 'cp -v /config/* /var/lib/trac/config'
+docker run -v C:\Users\bletzim.BLAMERICAS\repos\trac\docker\config:/config -v dev-trac-configs:/var/lib/trac/config \
+--name trac-copy-config ubuntu bash -c 'cp -v /config/* /var/lib/trac/config'
+docker run -v C:\Users\bletzim.BLAMERICAS\repos\trac\docker\config:/config -v dev-trac-configs:/var/lib/trac/config \
+--name trac-copy-config ubuntu bash -c 'cp -v /config/* /var/lib/trac/config'
+C:\Windows\system32>docker run -v C:\Users\bletzim.BLAMERICAS\repos\trac\docker\config:/config -v dev-trac-configs:/var/lib/trac/config ubuntu bash -c 'cp -v /config/* /var/lib/trac/config'
+docker: Error response from daemon: mkdir C:\Users\bletzim.BLAMERICAS: Access is denied.
+See 'docker run --help'.
+C:\Windows\system32>C:\Windows\system32>docker run -v C:\Users\bletzim.BLAMERICAS\repos\trac\docker\config:/config -v dev-trac-configs:/var/lib/trac/config ubuntu bash -c 'cp -v /config/* /var/lib/trac/config'`
+docker: Error response from daemon: mkdir C:\Users\bletzim.BLAMERICAS: Access is denied.`
+See 'docker run --help'.`
+`
+C:\Windows\system32>docker run -v C:\Users\bletzim.BLAMERICAS\repos\trac\docker\config:/config -v dev-trac-configs:/var/lib/trac/config ubuntu bash -c 'cp -v /config/* /var/lib/trac/config'
+docker run -v C:\Users\bletzim.BLAMERICAS\repos\trac\docker\config:/config -v dev-trac-configs:/var/lib/trac/config ubuntu bash -c 'cp -v /config/* /var/lib/trac/config'
+docker compose -f ./tmp/docker-compose-trac-development.yml restart --pwd test123
+docker compose -f ./tmp/docker-compose-trac-development.yml restart 
+docker-compose up
+docker-compose up -f ./tmp/docker-compose-trac-development.yml
+docker compose up -f ./tmp/docker-compose-trac-development.yml
+docker-compose down
+docker compose up -f ./tmp/docker-compose-trac-development.yml
+docker-compose up
+docker compose up -f ./tmp/docker-compose-trac-development.yml
+docker compose down -f ./tmp/docker-compose-trac-development.yml
+docker compose down -f /tmp/docker-compose-trac-development.yml
+docker compose -f ./tmp/docker-compose-trac-development.yml
+cd dist
+serve apps/trac-web
+npm i -g serve
+serve apps/trac-web
+serve apps/trac-api
+serve dist/apps/trac-web
+node docker/start-development --pw test123 --certdir --configdir
+node docker/clean-docker-development --removeVolumes
+node docker/create-volume --name trac-dev-uploads
+node docker/restore-volume --name trac-pgdata
+node docker/create-volume --name trac-dev-uploads
+node docker/restore-volume --name trac-dev-uploads
+docker rm 2dff581e7367909df1e6d4a0d381fcd77f6456d0c84217170239c4a1b3501d44
+node docker/restore-volume --name trac-dev-uploads
+node docker/restore-volume --name trac-dev-pgdata
+docker rm 2dff581e7367909df1e6d4a0d381fcd77f6456d0c84217170239c4a1b3501d44
+node docker/restore-volume --name trac-dev-pgdata
+node docker/create-configs --pw test123 --tpw --apihost --smtphost --smtpport --configdir --certdir --certfile --certkeyfile
+node docker/create-pgdata --pw test123 --configdir --certdir  --reset
+node docker/start-development --pw test123 --certdir --configdir
+node docker/start-development --pw test123 --certdir --configdircls
+cls
+nx build trac-api
+nx build trac-web
+nodemon --exec ts-node app.ts
+nodemon --exec cargo run 
+cd harsha
+cargo -x 'cargo run'
+cargo watch -x 'cargo run'
+cargo-watch -x 'cargo run'
+cargo --list
+cargo watch --x 'cargo run'
+cargo watch --h
+cargo watch --exec 'cargo run'
+cd src
+cargo watch --exec 'cargo run'
+cargo run
+cargo watch
+cargo watch -x 'cargo run'
+cargo cargo  watch -x 'cargo run'
+cargo --list
+cargo install cargo-watch
+cargo watch -x 'cargo run'
+cargo watch --exec 'cargo run'
+cargo install cargo-watch
+cargo watch --exec 'cargo run'
+cargo watch --exec 'run'
+cargo watch -x 'run'
+nodemon -x cargo run
+nodemon --exec cargo run
+cls
+nodemon --exec ./main
+cls
+nodemon --exec ./main.rs
+cls
+nodemon --exec ts-node app.ts
+node docker_build.js
+node docker/docker_build.js
+node docker/create-git-docker.js
+node docker/create-git-docker
+cd docker 
+node create-git-docker
+ls
+cd ..
+node docker/git-docker
+node docker/git-docker/create-git-docker
+node docker/git-docker/create-git-docker -v swathi
+node docker/git-docker/create-git-docker -u unique -g your_gid -i your_uid
+node docker/git-docker/create-git-docker 
+node docker/git-docker/create-git-docker -u unique -g your_gid -i your_uid
+node docker/git-docker/create-git-docker --help
+node docker/git-docker/create-git-docker 
+node docker/git-docker/create-git-docker -username unique -g your_gid -i your_uid
+node docker/start-development --pw test123 --certdir --configdir
+docker image inspect trac/web:0.9.16 > D:/stuff/image_metadata.json
+cls
+node docker/start-development --pw test123 --certdir --configdir
+
+
+
+/////////// this is cmdline history of Developer Shyam - from October 3 2023 to March 5 2024

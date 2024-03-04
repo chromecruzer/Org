@@ -1,0 +1,11 @@
+{
+    "user": "SurgicalOps1",
+    "password": "mssql-password",
+    "server": "DESKTOP-5J3PRI4\\SQLEXPRESS01",
+    "database": "TableauModelData_Surgical",
+    "productsTable": "dbo.products",
+    "customersTable": "dbo.customers",
+    "mappingsTable": "dbo.mappings",
+    "salesRepsTable": "dbo.salesReps"
+    }
+    
