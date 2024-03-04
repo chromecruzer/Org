@@ -1,9 +1,0 @@
-{
-"user": "tracpostgres",
-"password": "test123",
-"port": 5432,
-"rootdatabase": "postgres",
-"database": "tracdb",
-"schema": "tracschema",
-"audit_schema": "tracauditschema"
-}
