@@ -50,6 +50,7 @@ export default class TransferMssqlData {
 
   public async transfer(pclient, user) {
     //const jtype = JSON.stringify(pclient)
+    console.table(dump(pclient))
     const jtype = JSON.stringify(pclient,null,2);
     console.log("test1"+jtype);
     console.log("test2"+user);
